@@ -1,3 +1,3 @@
 # Quotes
 
-Justquotes.netlify.app
+
